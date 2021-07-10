@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">App ProtoV1</string>
+    <string name="btnCapturar_esp">Capturar</string>
+    <string name="btnCapturar_eng">Capture</string>
+    <string name="btnGirar_esp">Girar</string>
+    <string name="btnGirar_eng">Rotate</string>
+    <string name="btnFormularios_esp">Formularios</string>
+    <string name="btnFormulrios_eng">empty</string>
+    <string name="titleFormularios_esp">FORMULARIOS</string>
+    <string name="titleFormularios_eng">EMPTY</string>
+    <string name="opcionSi_esp">Si</string>
+    <string name="opcionSi_eng">Yes</string>
+    <string name="opcionNo_eng">No</string>
+    <string name="opcionNo_esp">No</string>
+    <string name="btnGuardar_esp">Guardar</string>
+    <string name="title_activity_login_app">LoginApp</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nombreApiario">"Nombre del apiario"</string>
+    <string name="numeroApiario">"N° de colmenas"</string>
+    <string name="rendimientoApiario">"Rendimiento colmena"</string>
+    <string name="title_activity_a2">ScrollingActivity</string>
+    <string name="pre21">El área donde practica la actividad apícola es: </string>
+    <string name="pre22">Describa el área donde están ubicados los apiarios y mencionar si encuentra algún punto cr´tico, como siembras, basureros, etc. : </string>
+    <string name="pre23">¿Cuál es la distancia media entre los apiarios orgánicos y la agricultura convencinal? </string>
+    <string name="pre24">Si la distancia es menor a 1.5 km, ¿qué medidas toma al respecto? </string>
+    <string name="pre25">¿Ha reubicado colmenas en otras áreas? Describa la razón, en caso de ser afirmativo</string>
+    <string name="pre26">¿Cómo proporciona agua a las abejas? </string>
+    <string name="pre27">¿Utiliza bebederos o depósitos para el agua de las abejas? ¿De qué tipo? </string>
+    <string name="pre28">Describir las condiciones del espacio donde se encuentran las colmenas (asi, el estado de los cubos, tapas, pisos, soportes o bases protectoras):</string>
+    <string name="pre31">Mencioné el nivel de poblacion del colmenar:</string>
+    <string name="pre32">¿Por qué?</string>
+    <string name="pre33">Mencione el procedimiento que realiza para la alimentación de colmenas y la colecta de polen en caso de realizarlo</string>
+    <string name="pre34">Mencione el porcentaje de multiplicación de colmenas que realiza anualmente: </string>
+    <string name="pre35">Indique el número de paneles que reemplaza al año por colmena</string>
+    <string name="pre36">La cera que utiliza para insertar en el interior de la colmena es:</string>
+    <string name="pre37">Para la revisión de las colmenas ¿Qué técnica y material utiliza?</string>
+    <string name="pre38">Mencione el producto que utiliza para el tratamiento de los cajones:</string>
+    <string name="pre41">¿Tipo de enfermedad presentado en las colmenas y acciones que realiza para prevenir y controlar en caso de severas infestaciones?</string>
+    <string name="pre51">Mencione las medidas precautorias y acciones que realiza para controlar el PEC en caso de severas infestaciones?</string>
+    <string name="pre52">Mencione el proceso que realiza para la conservación de paneles despues del ciclo productivo:</string>
+    <string name="pre61">¿Dónde realiza la cosecha o extracción de miel?</string>
+    <string name="pre62">Describa los equipos con los que cuenta, si estos son utilizados en la apicultura convencional u orgánica y las medidas que
+adopta antes, durante y después de la extracción de miel? (lavado de equipos, higiene personal, medio de transporte, filtrado y
+envasado de la miel, etc.</string>
+    <string name="pre63">¿En caso de no contar con el equipo de extracción adecuado mencione como se provee de ello y cuáles son las medidas
+precautorias que toma en cuenta?</string>
+    <string name="pre64">Mencione el indicador que determina para poder realizar la cosecha de miel y las medidas precautorias que contempla para no contaminar el producto</string>
+    <string name="pre65">¿Tipo de depósito que utiliza para almacenar el producto?</string>
+    <string name="pre66">¿Qué porcentaje de humedad tiene la miel de su producción?</string>
+    <string name="pre71">Describa a continuación las observaciones:</string>
+    <string name="pre81">Al finalizar la visita, con base a lo observado en campo se puede indicar que el productor:</string>
+    <string name="pre811">Cumple con las normas orgánicas y reglamento interno de la organización</string>
+    <string name="pre812">No cumple con las normas orgánicas y reglamento interno de la organización</string>
+    <string name="tituloA7">Nombre completo del productor:</string>
+    <string name="firmaA7">Firma: </string>
+    <string name="large_text">
+
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="pre411">En caso de aplicar algún producto (antibiótico) y describa el nombre y la dosis empleada.</string>
+    <string name="btnNext">Siguiente</string>
+    <string name="btnBack">Atras</string>
+    <string name="rowApiarioNombre">Nombre:</string>
+
+
+</resources>
